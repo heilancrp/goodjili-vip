@@ -205,7 +205,7 @@ img{
 }
 .kefu{
     position: absolute;
-    right: 10px;
+    right: -100px;
     top: 40px;
 }
 .kefu .item {
