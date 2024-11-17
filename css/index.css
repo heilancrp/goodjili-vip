@@ -85,7 +85,7 @@ img{
     position: relative;
 }
 .page-swipe .ping-code .item-left{
-    width: 36%;
+    width: 60%;
     margin-right: 70px;
 }
 .page-swipe .ping-code .item-left:nth-child(2){
@@ -93,7 +93,7 @@ img{
     margin-left: 70px;
 }
 .ping-code .items{
-    width: 100%;
+    width: 80%;
 }
 .ping-code .items a{
     display: flex;
@@ -103,7 +103,7 @@ img{
     padding: 10px 10px;
 }
 .ping-code .items a img{
-    width: 30px;
+    width: 40px;
 }
 .ping-code .items a .domain{
     color: #FFD873;
